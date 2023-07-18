@@ -1,8 +1,8 @@
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imeanstar&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imeanstar&show_icons=true&theme=merko)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imeanstar&layout=compact&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imeanstar&layout=compact&theme=merko)
+
   
 </div>
 
