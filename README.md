@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imeanstar&show_icons=true&theme=스타일)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imeanstar&show_icons=true&theme=dark)
 
 <!--
 **Imeanstar/Imeanstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
